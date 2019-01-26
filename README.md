@@ -1,7 +1,7 @@
  <h1> Создание C# </h1>
 
   
-<img src="https://user-images.githubusercontent.com/43417474/51785239-3d4bae80-216e-11e9-83bf-7b1bc0e3d153.jpg" alt="Italian Trulli " height="225" align="right">
+<img src="https://user-images.githubusercontent.com/43417474/51785239-3d4bae80-216e-11e9-83bf-7b1bc0e3d153.jpg" alt="Italian Trulli " height="180" align="right">
 
 
 
